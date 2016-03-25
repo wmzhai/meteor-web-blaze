@@ -16,7 +16,7 @@ es5-shim                # ECMAScript 5 compatibility for older browsers.
 ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 
-meteortoys:allthings
+#meteortoys:allthings
 kadira:flow-router
 kadira:blaze-layout
 
@@ -31,3 +31,4 @@ useraccounts:unstyled
 raix:handlebar-helpers
 
 aldeed:template-extension
+alanning:roles
